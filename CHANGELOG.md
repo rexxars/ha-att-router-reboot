@@ -4,6 +4,10 @@ All notable changes to this integration are recorded here, newest first. The for
 
 The newest version below is the version in `manifest.json` and in `const.VERSION`. HACS installs the tagged release rather than the default branch.
 
+## [0.4.1] - 2026-11-13
+
+- Accept gateway uptime in days:hours:minutes:seconds format during setup and polling.
+
 ## [0.4.0] - 2026-10-30
 
 ### Changed
